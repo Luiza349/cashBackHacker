@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.CashBackHackerServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-09-30T15:37:56" hostname="LAPTOP-Q5NR3QC3" time="0.048">
+  <properties/>
+  <testcase name="remain_whenAmountIsZero_returnsBoundary()" classname="ru.netology.CashBackHackerServiceTest" time="0.025"/>
+  <testcase name="remain_whenAmountIsMultipleOfBoundary_returnsBoundary()" classname="ru.netology.CashBackHackerServiceTest" time="0.002"/>
+  <testcase name="remain_whenAmountExceedsBoundary_returnsToNextThreshold()" classname="ru.netology.CashBackHackerServiceTest" time="0.002"/>
+  <testcase name="remain_whenAmountEqualsBoundary_returnsBoundary()" classname="ru.netology.CashBackHackerServiceTest" time="0.002"/>
+  <testcase name="remain_whenAmountIsLessThanBoundary_returnsDifference()" classname="ru.netology.CashBackHackerServiceTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
